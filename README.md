@@ -1,10 +1,7 @@
 # 🌱 CarbonTrack: Agricultural Carbon Intelligence Platform
-
-> **A showcase-ready platform empowering researchers, carbon project developers, and climate investors to identify high-potential rice-growing regions in India, evaluate historical agricultural trajectories, model Alternate Wetting and Drying (AWD) methane abatement, and generate evidence-backed research reports.**
-
 ---
 
-## 📌 Executive Overview
+## Overview
 
 Rice cultivation is the **3rd largest anthropogenic source of methane ($CH_4$) globally**, contributing ~8–12% of agricultural greenhouse gas emissions. India, as the world's 2nd largest rice producer (~137.8 Million Tonnes of milled rice across 47.4 Million Hectares), possesses one of the world's largest agricultural decarbonization opportunities.
 
@@ -12,7 +9,7 @@ Rice cultivation is the **3rd largest anthropogenic source of methane ($CH_4$) g
 
 ---
 
-## 🎯 Core Questions Answered
+## Core Questions Answered
 
 ### 1. Which Indian states and districts have substantial rice-growing activity?
 - **Top Producing States:** West Bengal (16.65 Mt), Uttar Pradesh (15.66 Mt), Punjab (13.15 Mt), Telangana (12.30 Mt), Odisha (9.29 Mt), Chhattisgarh (8.24 Mt), Andhra Pradesh (8.15 Mt), and Bihar (7.42 Mt).
@@ -60,14 +57,9 @@ CarbonTrack implements an explainable **Research Priority Index (0–100)**:
 - **GHG Chamber Sampling:** Static closed-chamber gas chromatography on sample plots to calibrate emission models and check $N_2O$ trade-offs.
 - **Third-Party Registry Audit:** Designated Operational Entity (DOE / VVB) verification under Verra VM0042 / CDM ACM0022.
 
-### 7. How can publicly available agricultural data support early-stage project research?
-Public data acts as a **systematic filtering funnel**:
-$$\text{47M ha (National)} \longrightarrow \text{Top 7 States (85M t)} \longrightarrow \text{Prime Canal/Tubewell Districts} \longrightarrow \text{FPO & Farmer Village Clusters}$$
-This saves project developers hundreds of thousands of dollars in premature field surveys by directing capital to regions with verified water control and high emission baselines.
-
 ---
 
-## 🖥️ Platform Architecture & Dashboards
+## Architecture & Dashboards
 
 ```
 carbontrack/
@@ -145,12 +137,4 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
-## 📊 Scientific Methodology & Citations
-- **IPCC (2019 Refinement):** *2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories*, Vol. 4 (Agriculture), Ch. 5 (Cropland - Rice Cultivation).
-- **Verra VM0042 (v2.0):** *Methodology for Improved Agricultural Land Management (ALM)*.
-- **UNFCCC / CDM ACM0022:** *Alternative water management in rice cultivation*.
-- **IRRI (Lampayan et al., 2015):** *Adoption and impact of alternate wetting and drying (AWD) for water and methane reduction in irrigated rice.* Field Crops Research.
-- **Richards & Sander (2014):** *Alternate wetting and drying in irrigated rice: implementation guidance for policymakers and investors.* CCAFS Report No. 4.
-
----
 
