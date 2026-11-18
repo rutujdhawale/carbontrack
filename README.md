@@ -1,4 +1,17 @@
-# 🌱 CarbonTrack: Agricultural Carbon Intelligence Platform
+# CarbonTrack: Agricultural Carbon Intelligence Platform
+
+---
+
+## Visual Showcase
+
+| Overview & National Trends | Hotspots |
+|:---:|:---:|
+| ![National Trends](assets/1.png) | ![Regional Explorer](assets/2.png) |
+
+| Project Intelligence |
+|:---:|
+| ![Intelligence](assets/3.png) |
+
 ---
 
 ## Overview
