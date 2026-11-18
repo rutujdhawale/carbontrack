@@ -1,0 +1,38 @@
+State,District,Area_kHa,Prod_kTonnes,Yield,Irrigated_Pct,Source,Drainage,AWD_Tier,Soil_Type,Methane_Abatement_Potential_tCO2e
+Punjab,Sangrur,290.0,1320.0,4.55,100.0,Tubewells & Canals,Good,Tier 1: Prime Controlled,Loam / Clay Loam,80040.0
+Punjab,Ludhiana,258.0,1180.0,4.57,100.0,Tubewells (Groundwater),Good,Tier 1: Prime Controlled,Alluvial Loam,71208.0
+Punjab,Patiala,235.0,1060.0,4.51,100.0,Tubewells & Canals,Good,Tier 1: Prime Controlled,Clay Loam,64860.0
+Punjab,Firozpur,195.0,855.0,4.38,99.5,Canals & Tubewells,Moderate,Tier 1: Prime Controlled,Sandy Loam,53820.0
+Punjab,Amritsar,180.0,760.0,4.22,100.0,Upper Bari Doab Canal / Tubewells,Good,Tier 1: Prime Controlled,Loam,49680.0
+Haryana,Karnal,172.0,710.0,4.13,100.0,Tubewells & Canals,Good,Tier 1: Prime Controlled,Alluvial Loam,47472.0
+Haryana,Kaithal,168.0,690.0,4.11,100.0,Tubewells & Canals,Good,Tier 1: Prime Controlled,Loam / Clay,46368.0
+Haryana,Kurukshetra,122.0,515.0,4.22,100.0,Tubewells (Electric),Good,Tier 1: Prime Controlled,Alluvial Loam,33672.0
+West Bengal,Purba Bardhaman,440.0,1580.0,3.59,78.5,DVC Canals & Tubewells,Moderate,Tier 1: Prime Controlled,Alluvial Clay,121440.0
+West Bengal,Paschim Medinipur,380.0,1180.0,3.11,62.0,"Canals, River Lift & Tanks",Moderate,Tier 2: Seasonally Feasible,Laterite / Alluvial,104880.0
+West Bengal,Murshidabad,350.0,1090.0,3.11,65.0,Shallow Tubewells & Lift,Poor (Lowland Flood),Tier 2: Seasonally Feasible,Alluvial Silt,96600.0
+West Bengal,Hooghly,215.0,780.0,3.63,82.0,DVC Canals & Deep Tubewells,Good,Tier 1: Prime Controlled,Fertile Alluvial,59340.0
+West Bengal,Birbhum,310.0,980.0,3.16,60.0,Mayurakshi Canals & Tanks,Moderate,Tier 2: Seasonally Feasible,Red & Alluvial,85560.0
+Uttar Pradesh,Shahjahanpur,210.0,680.0,3.24,92.0,Private Diesel/Electric Tubewells,Good,Tier 1: Prime Controlled,Alluvial Loam,57960.0
+Uttar Pradesh,Barabanki,185.0,540.0,2.92,88.0,Canals & Tubewells,Moderate,Tier 1: Prime Controlled,Loamy Clay,51060.0
+Uttar Pradesh,Bareilly,178.0,560.0,3.15,91.0,Tubewells & Canals,Good,Tier 1: Prime Controlled,Sandy Alluvial,49128.0
+Uttar Pradesh,Gorakhpur,195.0,490.0,2.51,75.0,Canals & Tubewells,Poor (Lowland Waterlogging),Tier 3: Drainage Risk,Clayey Silt,53820.0
+Telangana,Nalgonda,295.0,1120.0,3.8,94.0,Nagarjuna Sagar Left Canal & Borewells,Good,Tier 1: Prime Controlled,Red Sandy / Black Loam,81420.0
+Telangana,Suryapet,220.0,880.0,4.0,95.0,Canals & Lift Irrigation,Good,Tier 1: Prime Controlled,Black Cotton / Clay,60720.0
+Telangana,Nizamabad,195.0,740.0,3.79,92.0,Sriram Sagar Project & Wells,Good,Tier 1: Prime Controlled,Black Soils,53820.0
+Telangana,Karimnagar,180.0,710.0,3.94,91.0,Lower Manair Dam Canals & Borewells,Good,Tier 1: Prime Controlled,Loamy Sand / Red,49680.0
+Andhra Pradesh,West Godavari,230.0,990.0,4.3,99.0,Godavari Delta Canals,Moderate,Tier 1: Prime Controlled,Heavy Delta Alluvial,63480.0
+Andhra Pradesh,East Godavari,215.0,890.0,4.14,98.0,Godavari Delta Canals,Moderate,Tier 1: Prime Controlled,Deltaic Alluvium,59340.0
+Andhra Pradesh,Krishna,245.0,980.0,4.0,97.0,Prakasam Barrage Canals,Good,Tier 1: Prime Controlled,Heavy Clay / Alluvial,67620.0
+Andhra Pradesh,Guntur,190.0,780.0,4.11,96.0,Nagarjuna Sagar Canals,Good,Tier 1: Prime Controlled,Black Cotton,52440.0
+Bihar,Rohtas,205.0,720.0,3.51,88.0,Sone Canal Network,Good,Tier 1: Prime Controlled,Alluvial Loam,56580.0
+Bihar,Kaimur,150.0,510.0,3.4,82.0,Canals & Tubewells,Good,Tier 1: Prime Controlled,Loam,41400.0
+Bihar,Nalanda,125.0,390.0,3.12,76.0,Tubewells & Pynes,Moderate,Tier 2: Seasonally Feasible,Clay Loam,34500.0
+Chhattisgarh,Janjgir-Champa,275.0,715.0,2.6,72.0,Hasdeo Bango Canals,Moderate,Tier 1: Prime Controlled,Clayey Loam (Matasi/Dorsa),75900.0
+Chhattisgarh,Raipur,185.0,425.0,2.3,55.0,Mahanadi Reservoir Canals,Moderate,Tier 2: Seasonally Feasible,Red & Yellow Soils,51060.0
+Chhattisgarh,Dhamtari,140.0,390.0,2.79,68.0,Gangrel Dam Canals,Good,Tier 2: Seasonally Feasible,Alluvial / Loam,38640.0
+Tamil Nadu,Thanjavur,175.0,720.0,4.11,96.0,Cauvery Delta Canals & Wells,Good,Tier 1: Prime Controlled,Deltaic Alluvium,48300.0
+Tamil Nadu,Tiruvarur,155.0,610.0,3.94,95.0,Cauvery Delta Canals,Moderate,Tier 1: Prime Controlled,Clayey Silt,42780.0
+Tamil Nadu,Nagapattinam,135.0,510.0,3.78,94.0,Cauvery Tail-end Canals,Moderate (Coastal),Tier 2: Seasonally Feasible,Coastal Alluvial,37260.0
+Odisha,Bargarh,210.0,690.0,3.29,65.0,Hirakud Reservoir Canals,Good,Tier 1: Prime Controlled,Red & Black Mixed,57960.0
+Odisha,Sambalpur,130.0,390.0,3.0,58.0,Hirakud Canals & Lift,Good,Tier 2: Seasonally Feasible,Loamy,35880.0
+Odisha,Ganjam,220.0,530.0,2.41,52.0,Rushikulya Canals & Tanks,Moderate,Tier 2: Seasonally Feasible,Coastal Alluvium,60720.0
